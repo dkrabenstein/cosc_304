@@ -3,8 +3,8 @@ import java.sql.*;
 public class TestJDBCMySQL
 {   public static void main(String[] args)
     {   String url = "jdbc:mysql://localhost/workson";
-        String uid = "testuser";
-        String pw = "todo";              
+        String uid = "root";
+        String pw = "304rootpw";              
               
         try ( Connection con = DriverManager.getConnection(url, uid, pw);
               Statement stmt = con.createStatement();) 
