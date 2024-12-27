@@ -2,6 +2,9 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "code/mssql-jdbc-11.2.0.jre11.jar",
-        "code/mysql-connector-java-8.0.27.jar"
+        "code/mysql-connector-java-8.0.27.jar",
+        "assignJava/304_lab6/lib/hamcrest-core-1.3.jar",
+        "assignJava/304_lab6/lib/junit-4.13.2.jar",
+        "assignJava/304_lab6/lib/mysql-connector-java-8.0.27.jar"
     ]
 }
